@@ -14,7 +14,7 @@ author: Enrique Molinari
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://www.copypasteisforword.com/about/"
+  About Me: "aboutme"
   Other Books:
     - Undertanding React: "https://leanpub.com/understandingreact"
   Enrique Molinari: "https://www.copypasteisforword.com"
